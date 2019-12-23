@@ -1,0 +1,377 @@
+html,
+body {
+    height: 100%;
+    margin: 0px
+}
+
+* {
+    box-sizing: border-box
+}
+
+.header {}
+
+.menu {
+    background-color: rgb(246, 246, 246)
+}
+
+.top_menu {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.top_menu_a {
+    width: 50%;
+    float: left;
+    padding: 10px
+}
+
+.text_f {
+    display: inline-block;
+    margin: 0px;
+    font-size: 12px
+}
+
+.top_menu_b {
+    width: 50%;
+    float: right
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    float: right
+}
+
+.menu-item {
+    display: inline-block;
+    padding: 10px;
+    font-size: 12px
+}
+
+.bottom_menu {
+    padding: 15px
+}
+
+.bottom_menu_a {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.bottom_menu_b {
+    width: 50%;
+    display: inline-block;
+}
+
+ul {
+    margin: 0;
+    padding: 0
+}
+
+.menu_item {
+    display: inline-block;
+    padding: 15px
+}
+
+.bottom_menu_c {
+    width: 30%;
+    margin: auto;
+    overflow: auto;
+    display: inline-block
+}
+
+.ul {
+    margin: 0;
+    padding: 0
+}
+
+.menu_item_a {
+    display: inline-block;
+    padding: 10px;
+    float: left
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    background-image: url(https://colorlib.com/preview/theme/eiser/img/banner/banner-bg.jpg);
+    background-size: cover;
+    background-position: center
+}
+
+.container_a {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.container_b {
+    padding: 249px 0px
+}
+
+.text {
+    color: #ffffff;
+    font-size: 14px
+}
+
+.text-green {
+    color: #71cd14;
+    font-size: 52px
+}
+
+.text-white {
+    color: #f6f6f6;
+    font-size: 52px
+}
+
+.text_a {
+    color: #ffffff;
+    font-size: 18px;
+    display: block;
+    margin: 0px 0px 40px 0px
+}
+
+.text_b {
+    background-color: #71cd14;
+    color: #ffffff;
+    padding: 20px 20px;
+}
+
+.container_c {
+    padding: 20px
+}
+
+.container_d {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.card_a {
+    height: 200px;
+    width: 25%;
+    padding: 20px;
+    float: left
+}
+
+.card_b {
+    background-color: #f6f6f6;
+    height: 100%;
+    width: 100%;
+    text-align: center
+}
+
+.image {
+    display: block;
+    padding: 20px;
+}
+
+.heading {
+    padding: 20px;
+
+}
+
+.text_c {
+    font-size: 15px;
+    padding: 10px;
+}
+
+.heading_a {
+    padding: 10px
+}
+
+.heading_b {
+    padding: 10px
+}
+
+.heading_d {
+    padding: 10px
+}
+
+.container_e {
+    padding: 20px
+}
+
+.container_f {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+h2 {
+    font-size: 24px;
+}
+
+.text_e {
+    font-size: 19px;
+    color: #797979;
+    text-align: center
+}
+
+.card_c {
+    width: 33.33%;
+    padding: 20px;
+    float: left
+}
+
+.card_d {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.text_i {
+    padding: 20px
+}
+
+.text_h {
+    font-size: 14px;
+
+}
+
+.text_j {
+    display: block;
+}
+
+.container_g {
+    background-image: url(https://colorlib.com/preview/theme/eiser/img/offer-bg.png);
+    height: 65%;
+    width: 100%;
+    background-size: cover;
+    background-position: center
+}
+
+.container_h {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.text_l {
+    color: #4a4a4a;
+    font-size: 24px;
+}
+
+.container_j {
+    width: 33.33%;
+    margin: auto 630px
+}
+
+.container_i {
+    padding: 100px 0px;
+    text-align: center
+}
+
+.text_m {
+    color: #2a2a2a;
+    font-size: 100px;
+}
+
+p {
+    margin: 0px
+}
+
+.text_n {
+    background-color: #71cd14;
+    color: white;
+    padding: 20px;
+}
+.container_n{
+    padding: 92px 0px
+}
+
+.text_o {
+    color: #4a4a4a;
+    margin: 40px
+}
+
+.container_k {
+    padding: 20px
+}
+
+.container_l {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.text_p {
+    text-align: center
+}
+
+.conatiner_1 {}
+.container_m{
+    background-color: #f6f6f6;
+    text-align: center;
+    padding: 90px 15px;
+    width: 50%;
+    display: inline-block
+}
+.text_q{
+    color: #4a4a4a;
+    font-size: 20px
+}
+.container_2{
+    margin: 100px 0px 75px 0px
+}
+.text_r{
+    font-size: 32px
+}
+.ttext{
+    font-size: 32px;
+}
+.container_3{
+    width: 49%;
+    padding:20px 10px;
+   display: inline-block
+}
+.container_4{
+    display: inline-block;
+    width: 49%;
+    padding: 20px 0px
+}
+.container_r{}
+.container_5{
+    display: inline-block;
+    width: 49%;
+    padding: 20px 0px
+}
+.container_s{
+    padding: 20px
+}
+.container_t{
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+.contianer_u{}
+.container_v{
+    width: 25%;
+    padding: 20px;
+    float: left;
+}
+.container_w{
+    width: 100%;
+    height: 100%; 
+}
+.container_10{
+    padding: 10px
+}
+.container_x{
+    padding: 20px
+}
+.container_y{
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+.container_11{
+    width: 33.33%;
+    padding: 20px;
+    float: left
+}
+.container_12{
+     width: 100%;
+    height: 100%;
+}
