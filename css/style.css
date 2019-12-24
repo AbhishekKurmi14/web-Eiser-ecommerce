@@ -479,16 +479,17 @@ p {
 
 .container_22 {
     background-color: #797979;
-    height: 50%;
-    width: 65%;
+    height:60%;
+    width: 100%;
     padding: 10px;
     float: left
 }
 
 .container_21 {
-    width: 35%;
+    width: 50%;
     float: right;
     background-color: #71cd14;
+    padding: 10px
 }
 
 .container_23 {
@@ -501,33 +502,50 @@ p {
     color: white;
     padding: 15px
 }
-.footer_1{
-    
-}
-.footer_2{
+
+.footer_1 {}
+
+.footer_2 {
     width: 70%;
     float: left
 }
-.footer_3{
+
+.footer_3 {
     color: white;
-    font-size: 18px 
+    font-size: 18px
 }
-.footer_4{
+
+.footer_4 {
     color: #71cd14;
 }
-.footer_5{
+
+.footer_5 {
     width: 30%;
     float: right
 }
-.footer_6{
+
+.footer_6 {
     width: 25%;
     height: 50px;
-text-align: center;
+    text-align: center;
     padding: 10px;
     float: left
 }
-.footer_7{
-    background-color:#797979;
+
+.footer_7 {
+    background-color: #797979;
     height: 100%;
     width: 100%;
+}
+
+.text_11 {
+    margin: 20px 0px
+}
+
+.text_12 {
+    padding: 0px 20px 0px 0px
+}
+
+.text_25 {
+    margin: 10px 0px
 }
