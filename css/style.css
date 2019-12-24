@@ -71,7 +71,7 @@ ul {
 
 .menu_item {
     display: inline-block;
-    padding: 15px
+    padding: 15px;
 }
 
 .bottom_menu_c {
@@ -89,7 +89,7 @@ ul {
 .menu_item_a {
     display: inline-block;
     padding: 10px;
-    float: left
+    float: left;
 }
 
 .container {
@@ -169,7 +169,7 @@ ul {
 
 .heading {
     padding: 20px;
-
+    color: black
 }
 
 .text_c {
@@ -178,15 +178,18 @@ ul {
 }
 
 .heading_a {
-    padding: 10px
+    padding: 10px;
+    color: black
 }
 
 .heading_b {
-    padding: 10px
+    padding: 10px;
+    color: black
 }
 
 .heading_d {
-    padding: 10px
+    padding: 10px;
+    color: black
 }
 
 .container_e {
@@ -227,7 +230,7 @@ h2 {
 
 .text_h {
     font-size: 14px;
-
+    color: black
 }
 
 .text_j {
@@ -277,7 +280,8 @@ p {
     color: white;
     padding: 20px;
 }
-.container_n{
+
+.container_n {
     padding: 92px 0px
 }
 
@@ -301,77 +305,229 @@ p {
 }
 
 .conatiner_1 {}
-.container_m{
+
+.container_m {
     background-color: #f6f6f6;
     text-align: center;
     padding: 90px 15px;
     width: 50%;
-    display: inline-block
+    float: left
 }
-.text_q{
+
+.text_q {
     color: #4a4a4a;
     font-size: 20px
 }
-.container_2{
+
+.container_2 {
     margin: 100px 0px 75px 0px
 }
-.text_r{
+
+.text_r {
     font-size: 32px
 }
-.ttext{
+
+.ttext {
     font-size: 32px;
 }
-.container_3{
-    width: 49%;
-    padding:20px 10px;
-   display: inline-block
+
+.container_3 {
+    width: 50%;
+    padding: 20px 10px;
+    float: right
 }
-.container_4{
-    display: inline-block;
-    width: 49%;
-    padding: 20px 0px
-}
-.container_r{}
-.container_5{
-    display: inline-block;
-    width: 49%;
-    padding: 20px 0px
-}
-.container_s{
+
+.container_4 {
+    float: left;
+    width: 50%;
     padding: 20px
 }
-.container_t{
+
+.container_6 {
+    width: 100%;
+    height: 100%;
+}
+
+.container_r {}
+
+.container_5 {
+    display: inline-block;
+    width: 49%;
+    padding: 20px 0px
+}
+
+.container_s {
+    padding: 20px
+}
+
+.container_t {
     width: 80%;
     margin: auto;
     overflow: auto
 }
-.contianer_u{}
-.container_v{
+
+.contianer_u {}
+
+.container_v {
     width: 25%;
     padding: 20px;
     float: left;
 }
-.container_w{
+
+.container_w {
     width: 100%;
-    height: 100%; 
+    height: 100%;
 }
-.container_10{
+
+.container_10 {
     padding: 10px
 }
-.container_x{
+
+.container_x {
     padding: 20px
 }
-.container_y{
+
+.container_y {
     width: 80%;
     margin: auto;
     overflow: auto
 }
-.container_11{
+
+.container_11 {
     width: 33.33%;
     padding: 20px;
     float: left
 }
-.container_12{
-     width: 100%;
+
+.container_12 {
+    width: 100%;
     height: 100%;
+}
+
+.text_z {
+    display: inline-block;
+    padding: 10px;
+    color: #797979
+}
+
+.text_s {
+    padding: 20px;
+    color: #797979
+}
+
+.text_t {
+    display: block;
+    font-size: 20px;
+    color: black;
+}
+
+.text_u {
+    color: #797979;
+    font-size: 15px
+}
+
+.text_1 {
+    color: black
+}
+
+.text_2 {}
+
+.container_13 {
+    background-color: #0d0d1f;
+    padding: 100px
+}
+
+.container_14 {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.container_15 {
+    width: 15%;
+    padding: 10px;
+    float: left
+}
+
+.container_16 {
+    color: white;
+    font-size: 20px
+}
+
+.container_17 {
+    color: #797979;
+    font-size: 17px;
+    display: block
+}
+
+.container_18 {
+    width: 30%;
+    padding: 10px;
+    float: left
+}
+
+.container_19 {
+    color: #797979;
+}
+
+.container_20 {
+    width: 100%;
+    height: 130px;
+    padding: 10px;
+    float: left
+}
+
+.container_22 {
+    background-color: #797979;
+    height: 50%;
+    width: 65%;
+    padding: 10px;
+    float: left
+}
+
+.container_21 {
+    width: 35%;
+    float: right;
+    background-color: #71cd14;
+}
+
+.container_23 {
+    color: white;
+    font-size: 10px;
+    margin: 0px
+}
+
+.container_24 {
+    color: white;
+    padding: 15px
+}
+.footer_1{
+    
+}
+.footer_2{
+    width: 70%;
+    float: left
+}
+.footer_3{
+    color: white;
+    font-size: 18px 
+}
+.footer_4{
+    color: #71cd14;
+}
+.footer_5{
+    width: 30%;
+    float: right
+}
+.footer_6{
+    width: 25%;
+    height: 50px;
+text-align: center;
+    padding: 10px;
+    float: left
+}
+.footer_7{
+    background-color:#797979;
+    height: 100%;
+    width: 100%;
 }
