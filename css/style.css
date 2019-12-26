@@ -499,18 +499,18 @@ p {
 .container_22 {
     background-color: #797979;
     width: 175px;
-    padding: 26px 5px;
+    padding: 15px 5px;
     float: left;
-    height: 70px;
+    height: 50px;
 }
 
 .container_21 {
     float: left;
     background-color: #71cd14;
-    padding: 15px;
+    padding: 5px 10px;
     display: inline-block;
-    width: 120px;
-    height: 50px;
+    width: 105px;
+    height: 30px;
     position: absolute;
     left: 144px;
     top: 20px
@@ -556,7 +556,7 @@ p {
 }
 
 .footer_7 {
-    background-color: #797979;
+    background-color: white;
     height: 100%;
     width: 100%;
 }
