@@ -47,10 +47,13 @@ ul {
     display: inline-block;
     padding: 10px;
     font-size: 11px;
+    color: black
 }
-.menu_item_b{
-    color:  #71cd14;
+
+.menu_item_b {
+    color: #71cd14;
 }
+
 .bottom_menu {
     padding: 15px 0px
 }
@@ -65,9 +68,11 @@ ul {
     width: 50%;
     display: inline-block;
 }
-.menu_item_c{
+
+.menu_item_c {
     color: black
 }
+
 ul {
     margin: 0;
     padding: 0
@@ -201,10 +206,12 @@ ul {
     padding: 60px 0px;
     overflow: auto
 }
-.container_30{
+
+.container_30 {
     padding: 60px 0px;
     overflow: auto
 }
+
 .container_f {
     width: 80%;
     margin: auto;
@@ -317,10 +324,12 @@ p {
     text-align: center;
     font-size: 24px
 }
-.container_34{
+
+.container_34 {
     padding: 20px 0px;
     overflow: auto
 }
+
 .conatiner_1 {}
 
 .container_m {
@@ -499,9 +508,9 @@ p {
 .container_22 {
     background-color: #797979;
     width: 195px;
-    padding: 15px 5px;
+    padding: 15px 10px;
     float: left;
-    height: 50px;
+    height: 45px;
 }
 
 .container_21 {
@@ -509,20 +518,22 @@ p {
     background-color: #71cd14;
     padding: 5px 10px;
     display: inline-block;
-    width: 105px;
-    height: 30px;
+    width: 86px;
+    height: 27px;
     position: absolute;
-    left: 144px;
-    top: 20px
+    left: 164px;
+    top: 18px
 }
 
 .container_23 {
     color: white;
-    margin: 0px
+    margin: 0px;
+    font-size: 14px
 }
 
 .container_24 {
     color: white;
+    font-size: 12px
 
 }
 
@@ -548,15 +559,14 @@ p {
 }
 
 .footer_6 {
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     text-align: center;
     padding: 10px;
     float: left
 }
 
 .footer_7 {
-    background-color: white;
     height: 100%;
     width: 100%;
 }
@@ -572,15 +582,18 @@ p {
 .text_25 {
     margin: 10px 0px
 }
-.container_31{
+
+.container_31 {
     padding: 50px 0px;
     overflow: auto
 }
-.container_32{
+
+.container_32 {
     padding: 50px 0px;
     overflow: auto
 }
-.container_33{
+
+.container_33 {
     padding: 50px 0px;
     overflow: auto
 }
