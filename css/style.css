@@ -246,11 +246,12 @@ h2 {
 
 .text_h {
     font-size: 14px;
-    color: black
+    color: black;
 }
 
 .text_j {
     display: block;
+    padding: 5px 10px
 }
 
 .container_g {
@@ -335,11 +336,13 @@ p {
 .container_m {
     background-color: #f6f6f6;
     text-align: center;
-    padding: 90px 15px;
+    padding: 0px 15px;
     width: 50%;
     float: left
 }
-
+.container_50{
+    padding: 40px 15px
+}
 .text_q {
     color: #4a4a4a;
     font-size: 20px
@@ -350,23 +353,25 @@ p {
 }
 
 .text_r {
-    font-size: 32px
+    font-size: 32px;
+    margin:10px 0px
 }
 
 .ttext {
     font-size: 32px;
+    margin: 10px 0px
 }
 
 .container_3 {
     width: 50%;
-    padding: 20px 10px;
+    padding: 0px 10px;
     float: right
 }
 
 .container_4 {
     float: left;
     width: 50%;
-    padding: 20px
+    padding: 0px 20px
 }
 
 .container_6 {
