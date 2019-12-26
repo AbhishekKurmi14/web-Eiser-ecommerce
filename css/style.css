@@ -510,6 +510,7 @@ p {
     width: 195px;
     padding: 15px 10px;
     float: left;
+    background-color: rgba(255,255,255,.15);
     height: 45px;
 }
 
@@ -569,6 +570,7 @@ p {
 .footer_7 {
     height: 100%;
     width: 100%;
+    background-color: rgba(255,255,255,.15);
 }
 
 .text_11 {
