@@ -50,7 +50,7 @@ ul {
 }
 
 .bottom_menu {
-    padding: 15px
+    padding: 15px 0px
 }
 
 .bottom_menu_a {
@@ -136,10 +136,11 @@ ul {
     background-color: #71cd14;
     color: #ffffff;
     padding: 20px 20px;
+    display: inline-block
 }
 
 .container_c {
-    padding: 20px
+    padding: 20px 0px
 }
 
 .container_d {
@@ -193,9 +194,13 @@ ul {
 }
 
 .container_e {
-    padding: 20px
+    padding: 60px 0px;
+    overflow: auto
 }
-
+.container_30{
+    padding: 60px 0px;
+    overflow: auto
+}
 .container_f {
     width: 80%;
     margin: auto;
@@ -279,6 +284,7 @@ p {
     background-color: #71cd14;
     color: white;
     padding: 20px;
+    display: inline-block
 }
 
 .container_n {
@@ -291,7 +297,7 @@ p {
 }
 
 .container_k {
-    padding: 20px
+    padding: 90px 0px
 }
 
 .container_l {
@@ -303,7 +309,10 @@ p {
 .text_p {
     text-align: center
 }
-
+.container_34{
+    padding: 20px 0px;
+    overflow: auto
+}
 .conatiner_1 {}
 
 .container_m {
@@ -357,7 +366,7 @@ p {
 }
 
 .container_s {
-    padding: 20px
+    padding: 50px 0px
 }
 
 .container_t {
@@ -384,7 +393,7 @@ p {
 }
 
 .container_x {
-    padding: 20px
+    padding: 50px 0px
 }
 
 .container_y {
@@ -434,7 +443,7 @@ p {
 
 .container_13 {
     background-color: #0d0d1f;
-    padding: 100px
+    padding: 100px 0px
 }
 
 .container_14 {
@@ -463,7 +472,8 @@ p {
 .container_18 {
     width: 30%;
     padding: 10px;
-    float: left
+    float: left;
+    position: relative
 }
 
 .container_19 {
@@ -472,35 +482,40 @@ p {
 
 .container_20 {
     width: 100%;
-    height: 130px;
-    padding: 10px;
-    float: left
+    height: 100%;
+    padding: 10px 0px;
+    float: left;
+    position: relative
 }
 
 .container_22 {
     background-color: #797979;
-    height:60%;
-    width: 100%;
-    padding: 10px;
-    float: left
+    width: 175px;
+    padding: 15px;
+    float: left;
+    height: 70px;
 }
 
 .container_21 {
-    width: 50%;
-    float: right;
+    float: left;
     background-color: #71cd14;
-    padding: 10px
+    padding: 15px;
+    display: inline-block;
+    width: 120px;
+    height: 50px;
+    position: absolute;
+    left: 154px;
+    top: 20px
 }
 
 .container_23 {
     color: white;
-    font-size: 10px;
     margin: 0px
 }
 
 .container_24 {
     color: white;
-    padding: 15px
+
 }
 
 .footer_1 {}
@@ -525,7 +540,7 @@ p {
 }
 
 .footer_6 {
-    width: 25%;
+    width: 50px;
     height: 50px;
     text-align: center;
     padding: 10px;
@@ -548,4 +563,16 @@ p {
 
 .text_25 {
     margin: 10px 0px
+}
+.container_31{
+    padding: 50px 0px;
+    overflow: auto
+}
+.container_32{
+    padding: 50px 0px;
+    overflow: auto
+}
+.container_33{
+    padding: 50px 0px;
+    overflow: auto
 }
