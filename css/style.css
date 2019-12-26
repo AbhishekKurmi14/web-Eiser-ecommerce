@@ -29,7 +29,7 @@ body {
 .text_f {
     display: inline-block;
     margin: 0px;
-    font-size: 12px
+    font-size: 11px
 }
 
 .top_menu_b {
@@ -46,9 +46,11 @@ ul {
 .menu-item {
     display: inline-block;
     padding: 10px;
-    font-size: 12px
+    font-size: 11px;
 }
-
+.menu_item_b{
+    color:  #71cd14;
+}
 .bottom_menu {
     padding: 15px 0px
 }
@@ -63,7 +65,9 @@ ul {
     width: 50%;
     display: inline-block;
 }
-
+.menu_item_c{
+    color: black
+}
 ul {
     margin: 0;
     padding: 0
@@ -212,7 +216,7 @@ h2 {
 }
 
 .text_e {
-    font-size: 19px;
+    font-size: 14px;
     color: #797979;
     text-align: center
 }
@@ -259,6 +263,7 @@ h2 {
 .text_l {
     color: #4a4a4a;
     font-size: 24px;
+    margin: 10px 0px
 }
 
 .container_j {
@@ -273,7 +278,8 @@ h2 {
 
 .text_m {
     color: #2a2a2a;
-    font-size: 100px;
+    font-size: 94px;
+    margin: 10px 0px
 }
 
 p {
@@ -293,7 +299,8 @@ p {
 
 .text_o {
     color: #4a4a4a;
-    margin: 40px
+    margin: 40px;
+    font-size: 14px
 }
 
 .container_k {
@@ -307,7 +314,8 @@ p {
 }
 
 .text_p {
-    text-align: center
+    text-align: center;
+    font-size: 24px
 }
 .container_34{
     padding: 20px 0px;
@@ -491,7 +499,7 @@ p {
 .container_22 {
     background-color: #797979;
     width: 175px;
-    padding: 15px;
+    padding: 26px 5px;
     float: left;
     height: 70px;
 }
@@ -504,7 +512,7 @@ p {
     width: 120px;
     height: 50px;
     position: absolute;
-    left: 154px;
+    left: 144px;
     top: 20px
 }
 
